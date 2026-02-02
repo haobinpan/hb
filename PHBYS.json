@@ -10,7 +10,7 @@
     "warningText": "皓冰提示:\n📢祝大家馬年幸福 \n📢勿信广告谨防诈骗",
     "urls": [
         {
-            "url": "https://cnb.cool/panhaobin/hb/-/git/raw/main/PHBJM.json",
+            "url": "https://github.com/haobinpan/hb/blob/main/PHBJM.json",
             "name": "🌍｜皓冰"
         },
         {
@@ -212,4 +212,5 @@
     ]
 
 }
+
 
