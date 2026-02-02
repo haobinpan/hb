@@ -10,7 +10,7 @@
     "warningText": "皓冰提示:\n📢祝大家馬年幸福 \n📢勿信广告谨防诈骗",
     "urls": [
         {
-            "url": "https://gitee.com/formatgame/hb/raw/gzwx/PHBJM.json",
+            "url": "https://cnb.cool/panhaobin/hb/-/git/raw/main/PHBJM.json",
             "name": "🌍｜皓冰"
         },
         {
@@ -210,4 +210,5 @@
             "name": "🧒｜少儿频道"
         }
     ]
+
 }
