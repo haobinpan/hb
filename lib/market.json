@@ -1,0 +1,172 @@
+[
+  {
+    "name": "推荐",
+    "list": [
+            {
+                "name": "本地包",
+                "url": "https://d.kstore.dev/download/8904/PHB.rar",
+                "icon": "https://wp.kayyw.com/f/LJeXik/HB512.png",
+                "version": "浓缩就是精华"
+            }
+        ]
+            },
+    {
+        "name": "皓冰悄咪咪滴更新",
+        "list": [
+            {
+                "name": "电视普通版",
+                "url": "https://wp.kayyw.com/f/VEPBfb/%E7%9A%93%E5%86%B0%E5%BD%B1%E8%A7%86-%E7%94%B5%E8%A7%86%E7%89%88-5.0.1_edit.apk",
+                "icon": "https://wp.kayyw.com/f/LJeXik/HB512.png",
+                "version": "5.0.1(64位)"
+            },
+            {
+                "name": "手机普通版",
+                "url": "https://wp.kayyw.com/f/8eYAil/%E7%9A%93%E5%86%B0%E5%BD%B1%E8%A7%86-%E6%89%8B%E6%9C%BA%E7%89%88-5.0.1_edit.apk",
+                "icon": "https://wp.kayyw.com/f/LJeXik/HB512.png",
+                "version": "5.0.1(64位)"
+            },
+            {
+                "name": "电视海信版",
+                "url": "https://wp.kayyw.com/f/31ZNTO/%E6%B5%B7%E4%BF%A1%E4%B8%93%E7%89%88-%E7%9A%93%E5%86%B0%E5%BD%B1%E8%A7%86-5.0.1_edit.apk",
+                "icon": "https://wp.kayyw.com/f/LJeXik/HB512.png",
+                "version": "5.0.1"
+            },
+            {
+                "name": "电视高端版",
+                "url": "https://wp.kayyw.com/f/VEE3hb/%E7%9A%93%E5%86%B0%E5%BD%B1%E8%A7%86-%E7%94%B5%E8%A7%86%E7%89%88-64%E4%BD%8D-3.7.5.apk",
+                "icon": "https://wp.kayyw.com/f/LJeXik/HB512.png",
+                "version": "3.7.5（64位）"
+            }
+        ]
+    },
+    {
+        "name": "精品APP",
+        "list": [
+            {
+                "name": "吉食屋酷酒内置版",
+                "url": "https://wp.kayyw.com/f/QBdViA/%E5%90%89%E9%A3%9F%E5%B1%8B%E9%85%B7%E9%85%9232%E4%BD%8D%E7%94%B5%E8%A7%86%E7%94%A8_1776.2_%28%E5%86%85%E7%BD%AE33%E7%BA%BF_20260308%29.apk",
+                "icon": "https://wp.kayyw.com/f/kYwaU0/mipmap0000.png",
+                "version": "1.7.7.6（32位）"
+            },
+            {
+                "name": "星火TV",
+                "url": "https://wp.kayyw.com/f/XOaETZ/XHDS.apk",
+                "icon": "https://wp.kayyw.com/f/LJeXik/HB512.png",
+                "version": "1.0.52"
+            },
+            {
+                "name": "猫TV",
+                "url": "https://wp.kayyw.com/f/0AabiA/MaoTV.apk",
+                "icon": "https://wp.kayyw.com/f/LJeXik/HB512.png",
+                "version": "rihou"
+            },
+            {
+                "name": "VST全聚合",
+                "url": "https://wp.kayyw.com/f/jPnbiX/VST.apk",
+                "icon": "https://wp.kayyw.com/f/LJeXik/HB512.png",
+                "version": "2.1.1(32位)"
+            },
+            {
+                "name": "野火聚合TV版",
+                "url": "https://wp.kayyw.com/f/xowOIY/%E9%87%8E%E7%81%AB%E8%81%9A%E5%90%88TV%E7%89%88_6.2.6.apk",
+                "icon": "https://wp.kayyw.com/f/LJeXik/HB512.png",
+                "version": "6.2.6"
+            },
+            {
+                "name": "凤凰TV修复版",
+                "url": "https://wp.kayyw.com/f/Dnapsk/%E5%87%A4%E5%87%B0TV%E4%BF%AE%E5%A4%8D%E7%89%881.1.apk",
+                "icon": "https://wp.kayyw.com/f/LJeXik/HB512.png",
+                "version": "1.1"
+            },
+            {
+                "name": "Pn9527播放器",
+                "url": "https://wp.kayyw.com/f/OdLmSd/Pn%E5%85%8D%E8%B4%B9%E6%92%AD%E6%94%BE%E5%99%A81.01%E6%B5%8B%E8%AF%95%E5%AF%86%E7%A0%81%EF%BC%9A9527%20%E6%88%966688.apk",
+                "icon": "https://wp.kayyw.com/f/LJeXik/HB512.png",
+                "version": "1.0.1"
+            },
+            {
+                "name": "油桃TV",
+                "url": "https://wp.kayyw.com/f/lYWViz/YTTV.apk",
+                "icon": "https://wp.kayyw.com/f/LJeXik/HB512.png",
+                "version": "5.0.3"
+            },
+            {
+                "name": "WebViewTV",
+                "url": "https://wp.kayyw.com/f/JrNBtx/WebTV.apk",
+                "icon": "https://wp.kayyw.com/f/LJeXik/HB512.png",
+                "version": "2.1.1"
+            },
+            {
+                "name": "蜂巢TV",
+                "url": "https://wp.kayyw.com/f/WDQJHe/%E8%9C%82%E5%B7%A2%E7%9B%B4%E7%8E%BBPro_6.7.6_%E5%AE%89%E5%8D%935%E4%BB%A5%E4%B8%8A.apk",
+                "icon": "https://wp.kayyw.com/f/LJeXik/HB512.png",
+                "version": "6.7.6"
+            },
+            {
+                "name": "yourTV",
+                "url": "https://wp.kayyw.com/f/p88lc4/%E4%BD%A0%E7%9A%84%E7%94%B5%E8%A7%86_2_3_9_%E5%A4%AE%E8%A7%86+%E5%8D%AB%E8%A7%86+%E5%9C%B0%E6%96%B9.apk",
+                "icon": "https://wp.kayyw.com/f/LJeXik/HB512.png",
+                "version": "2.3.9"
+            },
+            {
+                "name": "斗音MyDV",
+                "url": "https://wp.kayyw.com/f/kgJmH0/myDV1.0.5.apk",
+                "icon": "https://wp.kayyw.com/f/LJeXik/HB512.png",
+                "version": "1.0.5"
+            },
+            {
+                "name": "FUSE",
+                "url": "https://wp.kayyw.com/f/BEE5I8/FUSE.apk",
+                "icon": "https://wp.kayyw.com/f/LJeXik/HB512.png",
+                "version": "3.0.27"
+            }
+        ]
+    },
+    {
+        "name": "TV工具",
+        "list": [
+            {
+                "name": "应用管家",
+                "url": "https://wp.kayyw.com/f/6DgecM/YYGJ.apk",
+                "icon": "https://wp.kayyw.com/f/LJeXik/HB512.png",
+                "version": "1.8.2"
+            },
+            {
+                "name": "野草助手TV版",
+                "url": "https://wp.kayyw.com/f/NqoPuq/YCZS.apk",
+                "icon": "https://wp.kayyw.com/f/LJeXik/HB512.png",
+                "version": ""
+            },
+            {
+                "name": "飞蓝SC",
+                "url": "https://wp.kayyw.com/f/p8XlT4/%E9%A3%9E%E8%93%9D%E5%B8%82%E5%9C%BA.apk",
+                "icon": "https://wp.kayyw.com/f/LJeXik/HB512.png",
+                "version": "xxxx"
+            },
+            {
+                "name": "鱼哥SC",
+                "url": "https://wp.kayyw.com/f/BEwzc8/%E9%B1%BC%E5%93%A5%E5%B8%82%E5%9C%BA.apk",
+                "icon": "https://wp.kayyw.com/f/LJeXik/HB512.png",
+                "version": "xxxx"
+            },
+            {
+                "name": "1DM+",
+                "url": "https://wp.kayyw.com/f/4Pd7h7/1DM+.apk",
+                "icon": "https://wp.kayyw.com/f/LJeXik/HB512.png",
+                "version": "v17.2"
+            },
+            {
+                "name": "emotn.browser",
+                "url": "https://wp.kayyw.com/f/oeL1Id/emotn.apk",
+                "icon": "https://wp.kayyw.com/f/LJeXik/HB512.png",
+                "version": "1.0.0.3"
+            },
+            {
+                "name": "Klonsdif.TV版",
+                "url": "https://wp.kayyw.com/f/715gHl/KLDLLQ.apk",
+                "icon": "https://wp.kayyw.com/f/LJeXik/HB512.png",
+                "version": "2.0.6"
+            }
+        ]
+    }
+]
