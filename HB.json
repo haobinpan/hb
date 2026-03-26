@@ -2175,9 +2175,6 @@
             "changeable": 0
         }
     ],
-    "lives": [
-        {}
-    ],
     "parses": [
         {
             "name": "聚合",
@@ -2716,3 +2713,13 @@
       "name": "皓冰测试五",
       "type": 0,
       "url": "https://d.kstore.dev/download/8904/hbzb005.txt",
+      "timeout": 10
+       },
+       {
+      "name": "皓冰测试六",
+      "type": 0,
+      "url": "https://d.kstore.dev/download/8904/hbzb006.txt",
+      "timeout": 10
+       }
+    ]
+}
