@@ -9,7 +9,7 @@
 //https://gitee.com/formatgame/phb/raw/hb/PHB.jar
 //file://tvbox/PHB/HB.json
 {
-    "spider": "./PHB.jar",
+    "spider": "https://d.kstore.dev/download/8904/PHB.jar",
     "wallpaper": "./xiaorizi.webp",
     "logo": "./yuanbao.gif",
     "sites": [
